@@ -1,5 +1,5 @@
 # ChatBot
- To create a ChatBot, we must install the CHatterBot Library
+ To create a ChatBot, we must install the ChatterBot Library
 follow the steps:
 1) Install a chatterbot in ypur system.((in command prompt)pip install chatterbot==0.8.6)
 2) Get a chatterbot Corpus
