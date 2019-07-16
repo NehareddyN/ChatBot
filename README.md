@@ -11,7 +11,7 @@ follow the steps:
 7) Deploy
 
 common Errors you can encounter here
-1) check the chatterbot must be a 0.8.6 version 
+1) check the chatterbot must be a 0.8.6 version (this is an older version we can use other versions too)
 2) If necessary upgrade your chatbot( python -m pip install --upgrade)
 3) Don't save chatbot with names such as "chatbot","chatterbot",etc.., 
 4) In case of End Of Line error, check if " " are ended correctly, use / instead of    \ and end it with /in location address
